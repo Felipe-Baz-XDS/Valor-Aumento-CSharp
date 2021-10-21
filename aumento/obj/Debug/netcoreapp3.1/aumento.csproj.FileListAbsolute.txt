@@ -1,0 +1,13 @@
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/bin/Debug/netcoreapp3.1/aumento
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/bin/Debug/netcoreapp3.1/aumento.deps.json
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/bin/Debug/netcoreapp3.1/aumento.runtimeconfig.json
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/bin/Debug/netcoreapp3.1/aumento.runtimeconfig.dev.json
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/bin/Debug/netcoreapp3.1/aumento.dll
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/bin/Debug/netcoreapp3.1/aumento.pdb
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/obj/Debug/netcoreapp3.1/aumento.csprojAssemblyReference.cache
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/obj/Debug/netcoreapp3.1/aumento.AssemblyInfoInputs.cache
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/obj/Debug/netcoreapp3.1/aumento.AssemblyInfo.cs
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/obj/Debug/netcoreapp3.1/aumento.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/obj/Debug/netcoreapp3.1/aumento.dll
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/obj/Debug/netcoreapp3.1/aumento.pdb
+/home/felipe/Desktop/Valor Aumento CSharp/aumento/obj/Debug/netcoreapp3.1/aumento.genruntimeconfig.cache
